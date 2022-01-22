@@ -1,6 +1,4 @@
-# Geek Social Backend
-
-Geek Social Backend
+# Portal Expenses API
 
 ## Setup
 
